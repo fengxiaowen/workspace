@@ -1,0 +1,114 @@
+#absolute-right{
+    width: 20px;height: 100%;
+    /*background-color: #dd2c00;*/
+    position: absolute;
+    right: 0px;
+    top: 73px;
+}
+#absolute-right div{
+    color: #292626;
+    font-size: 15px;
+    transform: scale(0.9);
+    height: 18px;
+    text-align: center;
+    line-height: 16px;
+
+}
+
+
+
+.address-item{
+    width: 95%;
+    height: 50px;
+    background-color: whitesmoke;
+    display: flex;
+    flex-flow: wrap;
+    align-items: center;
+    justify-content: center;
+    border-bottom: 1px solid #e0e0e0;
+    margin: 1px 1px 1px 1px;
+}
+.address-left{
+    width:40px;
+    height: 40px;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 110%;
+    margin-left: 10px;
+}
+.address-right{
+    flex:1;
+    height: 40px;
+    color: #606060;
+    line-height: 40px;
+    margin-left: 10px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    font-size: 15px;
+    font-weight:600;
+
+}
+#newfriend{
+    background-image: url(../img/address-list/newfriend.svg);
+    /*background-repeat: no-repeat;*/
+    /*background-position: center;*/
+    /*background-size: 100%;*/
+
+}
+#chats{
+    background-image: url(../img/address-list/chats.svg);
+}
+#lable{
+    background-image: url(../img/address-list/lable.svg);
+}
+#public{
+    background-image: url(../img/address-list/public.svg);
+}
+#friend-1{
+    background-image: url(../img/address-list/friend-1.jpg);
+}
+#friend-2{
+    background-image: url(../img/address-list/friend-2.jpg);
+}
+#friend-3{
+    background-image: url(../img/address-list/friend-3.jpg);
+}
+#friend-4{
+    background-image: url(../img/address-list/friend-4.jpg);
+}
+#friend-5{
+    background-image: url(../img/address-list/friend-5.jpg);
+}
+#friend-6{
+    background-image: url(../img/address-list/friend-5.jpg);
+}
+#friend-7{
+    background-image: url(../img/address-list/friend-5.jpg);
+}
+#friend-8{
+    background-image: url(../img/address-list/friend-5.jpg);
+}
+#friend-9{
+    background-image: url(../img/address-list/friend-5.jpg);
+}
+#friend-10{
+    background-image: url(../img/address-list/friend-5.jpg);
+}
+.transit{
+    width: 99%;
+    height: 20px;
+    background-color: #e0e0e0;
+    display: flex;
+    flex-flow: wrap;
+    /*align-items: center;*/
+    /*justify-content: center;*/
+    border-bottom: 1px solid #e0e0e0;
+    margin: 1px 1px 1px 1px;
+    padding-left: 10px;
+    color: #606060;
+    text-align: left;
+    line-height: 20px;
+    font-size: 12px;
+}

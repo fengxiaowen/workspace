@@ -1,0 +1,107 @@
+/*::-webkit-scrollbar{*/
+    /*display: none;*/
+/*}*/
+.chat-item{
+    width: 99%;
+    height: 62px;
+    background-color: whitesmoke;
+    display: flex;
+    flex-flow: wrap;
+    align-items: center;
+    justify-content: center;
+    border-bottom: 1px solid darkgrey;
+    margin: 1px 1px 1px 1px;
+}
+.item-left{
+    width:50px;
+    height: 50px;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 110%;
+    transform: scale(0.8);
+
+}
+#left-1{
+    background-image: url(../img/item/item-2.jpg);
+}
+#left-2{
+    background-image: url(../img/item/item-2.jpg);
+}
+#left-3{
+    background-image: url(../img/item/item-3.png);
+}
+#left-4{
+    background-image: url(../img/item/item-4.png);
+}
+#left-5{
+    background-image: url(../img/item/item-5.jpg);
+}
+#left-6{
+    background-image: url(../img/item/item-6.jpg);
+}
+#left-0{
+    background-image: url(../img/item/item-0.png);
+}
+.item-right{
+    width: 78%;
+    height: 50px;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    justify-content: center;
+
+}
+.right-top{
+    height: 50%;
+    width: 100%;
+    display: flex;
+    flex-flow: wrap;
+    align-items: center;
+    justify-content: center;
+}
+.right-buttom{
+    height: 50%;
+    width: 100%;
+    display: flex;
+    flex-flow:wrap;
+    align-items: center;
+    justify-content: center;
+}
+.nick{
+    width: 70%;
+    height: 70%;
+    font-size: 17px;
+    text-align: left;
+    line-height: 100%;
+    margin-top: 5px;
+    color:black;
+}
+.time{
+    width: 25%;
+    height: 50%;
+    font-size: 10px;
+    text-align:right;
+    line-height: 100%;
+    color: #bfbfbf;
+    margin-bottom: 3%;
+}
+.message{
+    width: 80%;
+    height: 70%;
+    font-size: 13px;
+    text-align: left;
+    line-height: 100%;
+    color: #707070;
+    margin-top: 2px;
+}
+.tip{
+    width: 15%;
+    height: 90%;
+    background-image: url(../img/small/tip.svg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 40%;
+    margin-bottom: 1%;
+
+}

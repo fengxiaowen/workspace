@@ -1,0 +1,38 @@
+#title-x{
+    width: 100%;
+    height: 25px;
+    background-color: #515151;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: wrap;
+    /*margin: 0px 0px 0px 0px;*/
+}
+
+#title-left{
+    height: 25px;
+    flex: 1;
+    display: flex;
+    align-items: center;
+    margin-left: 15px;
+    font-size: 12px;
+}
+/*#title-left div{*/
+    /*font-size: 15px ;*/
+    /*margin-left: 5px;*/
+    /*display: flex;*/
+    /*align-items: center;*/
+    /*justify-content: center;*/
+    /*flex-flow: column;*/
+    /*font-weight: 100;*/
+
+/*}*/
+#title-right{
+    height: 15px;
+    flex: 1;
+    background-image: url(../img/circle/camera.svg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 40%;
+    margin-left: 70%;
+}

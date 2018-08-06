@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        .border{
+            border: 1px solid crimson;
+        }
+        .half{
+            width: 2px;
+            height: 14px;
+            background-color: #616161;
+            transition:0.05s;
+
+
+
+            border-radius: 20%;
+
+        }
+
+
+        #sub1{
+             width: 2px;
+             height: 4px;
+             background-color: #616161;
+             transform: rotate(45deg);
+             transform-origin: 1px 0px;
+         }
+        #sub2{
+            width: 1px;
+            height: 2px;
+            background-color: #616161;
+            transform: rotate(45deg);
+            transform-origin: -5px 4px;
+        }
+        .date{
+            width: 3px;
+            display: flex;
+            flex-flow: wrap;
+            align-items: center;
+            justify-content:space-around;
+        }
+
+    </style>
+</head>
+<body>
+<div class="date">
+    <div class="half">
+        <div id="sub1"></div>
+
+    </div>
+    <div class="half">
+        <div id="sub2" ></div>
+    </div>
+
+
+</div>
+</body>
+</html>

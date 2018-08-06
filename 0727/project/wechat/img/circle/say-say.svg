@@ -1,0 +1,19 @@
+<svg width="43" height="30" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="#f5f5f5" id="canvas_background" height="32" width="45" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <rect id="svg_3" height="36" width="30" y="-101.993816" x="124.950132" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#999999" fill="#999999"/>
+  <g stroke="null" id="svg_10">
+   <g stroke="null" id="svg_11">
+    <rect stroke="#999999" id="svg_1" height="30.000002" width="39" y="0" x="6.001798" fill-opacity="null" stroke-width="1.5" fill="#999999"/>
+    <rect stroke="#999999" transform="matrix(0.6733624540633897,0.6721023129245468,-0.7393125221837714,0.6121477037555951,20.734258576173012,-8.754520934030317) " id="svg_6" height="10.677235" width="7.588469" y="23.788607" x="7.04935" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="#999999"/>
+    <ellipse stroke="#999999" ry="5.454546" rx="6" id="svg_7" cy="16.818183" cx="16.501798" stroke-opacity="null" stroke-width="1.5" fill="#f5f5f5"/>
+    <ellipse stroke="#999999" ry="5.454546" rx="6" id="svg_8" cy="16.363638" cx="33.501798" stroke-opacity="null" stroke-width="1.5" fill="#f5f5f5"/>
+   </g>
+  </g>
+ </g>
+</svg>
